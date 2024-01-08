@@ -1,0 +1,23 @@
+@media (min-width:768px){
+   .news-input{
+    width: 50%;
+    .card-body{
+        height: 300px;
+        width: auto;
+    }
+   }
+}
+#header{
+    background-color: rgb(48, 48, 47);
+}
+.jello-horizontal {
+	-webkit-animation: jello-horizontal 0.9s both;
+	        animation: jello-horizontal 0.9s both;
+}
+#video{
+    
+    margin: 5px;
+}
+#videobk{
+    background-color: rgb(14, 14, 14);
+}
